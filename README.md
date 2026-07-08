@@ -4,7 +4,8 @@ An analysis of HDB Resale Prices
 ## Project Overview 
 This mini project delivers an interactive data visualisation dashboard that allows to analyse and uncover trends, spatial patterns and pricing drivers within the Singapore Housing and Development Board (HDB) resale market. Leveraging 9 years of historical transaction data from [Data.gov.sg](https://data.gov.sg/datasets?topics=housing&resultId=d_8b84c4ee58e3cfc0ece0d773c8ca6abc), the project transforms raw property records into actionable market insights. 
 
-<u> ## Project Workflow </u>
+## Project Workflow 
+
 ### 1. 🧹Data Cleaning (Python)
 - Checked for missing values
 - Applied floor division mathematically to round individual remaining lease durations down to nearest decade base
