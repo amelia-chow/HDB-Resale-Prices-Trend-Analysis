@@ -15,8 +15,6 @@ This mini project delivers an interactive data visualisation dashboard that allo
 - Core drivers of HDB prices 
 - Forecast of HDB average prices
 
-[For Access to Dashboard](https://public.tableau.com/shared/ZJ7QW5NPP?:display_count=n&:origin=viz_share_link)
-
 ## 📌Key Insights
 - Average Resale Prices climb consistently over time across all flat types
 - 4-Room flats consistently dominating Resale Market Volume, reprenting the largest single market share at 42.41%
@@ -24,7 +22,6 @@ This mini project delivers an interactive data visualisation dashboard that allo
 - Historical data shows a consistent, upward trajectory for average HDB resale prices over the last decade
 
 [Check out the interactive dashboard here!](https://public.tableau.com/views/HDBdatavisualisation/HDBResalePriceHistoricalAnalysisForecast?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
----
 
 ## Check out the Machine Learning project that I did, using the same dataset!:
 🧠 **[HDB Resale Price Prediction Model](https://github.com/amelia-chow/Prediction-of-HDB-Resale-Price-/blob/main/README.md)**: Check out the machine learning repository where the predictive logic and preprocessing for this dataset were built.
